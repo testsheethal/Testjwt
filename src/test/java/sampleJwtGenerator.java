@@ -24,13 +24,13 @@ import com.thed.zephyr.cloud.rest.client.JwtGenerator;
 
 
 /**
-* @author swapna.vemula 12-Dec-2016
+* @author kumari.meena 27-Feb-2019
 *
 */
 
             /**
                 * @param args
-                * @author Created by sheethal.d11 on 28-Jan-2019.
+                * @author Created by kumari.meena 27-Feb-2019
                 * @throws URISyntaxException
                 * @throws JobProgressException
                 * @throws JSONException
