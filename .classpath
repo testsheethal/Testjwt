@@ -35,5 +35,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/d.d/Downloads/jwt-generator.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d.d/Downloads/org.eclipse.egit_5.2.0.201812061821-r.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
