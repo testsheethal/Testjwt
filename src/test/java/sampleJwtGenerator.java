@@ -28,7 +28,7 @@ import com.thed.zephyr.cloud.rest.client.JwtGenerator;
 *
 */
 
-//generation of JWT token
+//generation of JWT token to use zapi cloud
 
             /**
                 * @param args
